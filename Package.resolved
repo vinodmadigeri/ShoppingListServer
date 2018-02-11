@@ -92,6 +92,15 @@
         }
       },
       {
+        "package": "HealthcheckProvider",
+        "repositoryURL": "https://github.com/vinodmadigeri/healthcheck-provider.git",
+        "state": {
+          "branch": null,
+          "revision": "90dcdaa95b6000b81e2fa50f6484c53c1f134fea",
+          "version": "1.0.0"
+        }
+      },
+      {
         "package": "JSON",
         "repositoryURL": "https://github.com/vapor/json.git",
         "state": {
